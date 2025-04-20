@@ -5,6 +5,7 @@ This template provides a quick start for developing desktop applications using R
 ## Features
 
 - React 19 with Vite (also Tailwind CSS + Shadcn UI)
+- React Router v7.5.1 for Routing
 - Electron integration
 - TypeScript support
 - ESLint configuration
